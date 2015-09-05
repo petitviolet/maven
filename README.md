@@ -17,3 +17,11 @@ Please check license and show how-to-use in specific page.
 ```groovy
 compile 'net.petitviolet.library:android-utils:0.1.1'
 ```
+
+# Shakable-ViewPager
+
+[petitviolet/shakable-viewpager](https://github.com/petitviolet/shakable-viewpager)
+
+```groovy
+compile 'net.petitviolet.library:shakable-viewpager:0.1.0'
+```
